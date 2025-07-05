@@ -1,5 +1,5 @@
 🎲 Gambling Tax Calculator
-A comprehensive web application for calculating gambling tax liability based on winnings, losses, and changing tax regulations.
+With the "One Big Beautiful Bill" proposed by President Donald Trump, this is a comprehensive web application for calculating gambling tax liability based on winnings, losses, and changing tax regulations.
 🌟 Features
 
 Dual Input Methods: Calculate taxes using either:
