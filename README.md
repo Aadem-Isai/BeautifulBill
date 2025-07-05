@@ -37,7 +37,7 @@ pip package manager
 Local Development
 
 Clone the repository
-bashgit clone https://github.com/yourusername/gambling-tax-calculator.git
+bashgit clone https://github.com/aademisai/gambling-tax-calculator.git
 cd gambling-tax-calculator
 
 Install dependencies
@@ -95,48 +95,6 @@ Losses: $110,000
 Year: 2026
 Result: $11,000 phantom income due to 90% deduction limit
 
-🚀 Deployment
-Using Render (Recommended)
-
-Push to GitHub
-bashgit init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/gambling-tax-calculator.git
-git push -u origin main
-
-Deploy on Render
-
-Visit render.com
-Connect your GitHub repository
-Set build command: pip install -r requirements.txt
-Set start command: gunicorn app:app
-Deploy!
-
-
-
-Using Railway
-
-Push to GitHub (same as above)
-Deploy on Railway
-
-Visit railway.app
-Connect your GitHub repository
-Automatic deployment
-
-
-
-Using Heroku
-
-Install Heroku CLI
-Create Procfile
-web: gunicorn app:app
-
-Deploy
-bashheroku create your-app-name
-git push heroku main
-
-
 🔒 Security & Privacy
 
 No user data is stored or transmitted
@@ -146,22 +104,13 @@ No tracking or analytics by default
 
 ⚖️ Legal Disclaimer
 This calculator is for educational and informational purposes only. Tax laws are complex and subject to change. Always consult with a qualified tax professional for advice specific to your situation.
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-Development Guidelines
-
-Fork the repository
-Create a feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 🐛 Bug Reports & Feature Requests
 Please use the GitHub Issues page to report bugs or request features.
 📞 Support
-For support, please open an issue on GitHub or contact [your-email@example.com].
+For support, please open an issue on GitHub or contact [isai.aadem05@gmail.com].
 🔄 Version History
 v1.0.0
 
@@ -194,5 +143,5 @@ Browser Support: All modern browsers
  Integration with tax software APIs
 
 
-Made with ❤️ for the gambling community
+Made with ❤️
 Remember: This tool is for educational purposes. Always consult with a tax professional for official tax advice.
